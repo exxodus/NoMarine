@@ -1,9 +1,9 @@
 # No More Marine !
 
-This is the code for my Chrome extension: https://chrome.google.com/webstore/detaielgiuml/make-america-kittens-agai/klchnmggepghlcolikgaekpibclpmgcm
+This is the code for my Chrome extension: https://chrome.google.com/webstore/detail/no-marine/impmajdpaiekeeaagpjdmkhcafdjhcjn
 This extension replace images of "Marine le Pen" in all website with picture of flowers. Please feel free to copy / edit / reuse the code in any way you like. NoMarine by Exxodus (@exxxxxodus) Based on #MAKA extension by @tomroyal (tomroyal.com)
 
-Ceci est le code de mon extension Chrome: 
+Ceci est le code de mon extension Chrome: https://chrome.google.com/webstore/detail/no-marine/impmajdpaiekeeaagpjdmkhcafdjhcjn
 Cette extension remplace les images de "Marine le Pen" dans les sites WEB avec des images de jolies fleurs. Copiez, éditez, réutilisez ce code comme vous le voulez. NoMarine by Exxodus (@exxxxxodus) est basé sur l'extension #MAKA de @tomroyal (tomroyal.com) 
 
 
